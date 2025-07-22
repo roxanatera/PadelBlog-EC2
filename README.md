@@ -34,4 +34,4 @@ Understand server management and networking.
 
 Prepare for AWS certifications (like AWS Solutions Architect).
 
-💡 Tip: Try automating deployments with CI/CD (like GitHub Actions) next!
+
